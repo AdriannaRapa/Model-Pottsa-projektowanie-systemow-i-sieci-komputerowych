@@ -4,7 +4,7 @@ Projekt realizowany w ramach przedmiotu Projektowanie systemów i sieci komputer
 ## 📋 Opis projektu
 Model Pottsa jest rozszerzeniem modelu Isinga i służy do opisu układów spinów w fizyce statystycznej. Projekt implementuje ten model w języku Python, spełniając następujące wymagania:
 * Generowanie siatki spinów o stałym stanie początkowym 🧩:
-*           Każda symulacja zaczyna się od zdefiniowanego stanu początkowego.
+** Każda symulacja zaczyna się od zdefiniowanego stanu początkowego.
 * Struktura siatki za pomocą tablicy sąsiedztwa 🌐: Definiuje sąsiedztwo dla każdego spinu w siatce.
 * Zmiany niezależne od prawdopodobieństwa 🔄: Funkcja wprowadzająca zmiany w spinach nie zależy od prawdopodobieństwa.
 * Dodanie wartości zewnętrznej ⚡: Zbadanie wpływu zewnętrznych parametrów na symulację.
